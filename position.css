@@ -1,9 +1,7 @@
 body > div {
-	box-sizing: border-box;
 	width:400px;
 	height:400px;
 	background-color: #F00;
-	padding:100px;
 }
 
 body > div > div {
