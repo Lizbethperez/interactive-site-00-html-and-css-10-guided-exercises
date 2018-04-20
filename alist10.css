@@ -15,14 +15,14 @@
 	outline: 1px solid red;
 }
 #content {
-	/*position: relative;*/
+	position: relative;
 	padding: 50px 250px 50px 50px;	
 }
 #aside {
 	position: absolute;
 	width:200px;
-	/*right:-30px;
-	top:30px;*/
+	right:-30px;
+	top:30px;
 	background-color: #FAA;
 	color:white;
 }
